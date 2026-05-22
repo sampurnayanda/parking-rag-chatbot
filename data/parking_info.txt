@@ -1,0 +1,120 @@
+SMART PARKING HUB — KNOWLEDGE BASE
+====================================
+
+GENERAL INFORMATION
+-------------------
+Parking Name: Smart Parking Hub
+Location: Bhubaneswar, Odisha
+Working Hours: 24/7 — open every day, all day
+Total Capacity: 100 slots across all vehicle types
+Contact: smartparking@hub.in
+
+
+PRICING
+-------
+Pricing is based on vehicle type:
+
+- Car:             ₹50 per hour
+- Motorcycle:      ₹30 per hour
+- SUV:             ₹70 per hour
+- Electric Vehicle: ₹50 per hour (EV charging included at no extra cost)
+- Truck:           ₹100 per hour
+
+Daily maximum cap: ₹500 for cars, ₹300 for motorcycles, ₹700 for SUVs.
+Monthly passes are available on request.
+
+
+PARKING SLOTS
+-------------
+Slots are organized by vehicle type and located across different zones:
+
+Car Slots (Zone A and Zone B and Zone C):
+  - A1, A2, A3, B1, B2, B3, C1, C2
+  - Total: 8 car slots
+  - Suitable for standard sedans and hatchbacks
+
+Motorcycle Slots (Zone M):
+  - M1, M2, M3, M4, M5
+  - Total: 5 motorcycle slots
+  - Covered parking available
+
+SUV Slots (Zone S):
+  - S1, S2, S3, S4
+  - Total: 4 SUV slots
+  - Extra-wide bays for large vehicles
+
+Electric Vehicle Slots (Zone EV):
+  - EV1, EV2, EV3
+  - Total: 3 EV slots
+  - All EV slots are equipped with fast charging stations (Level 2 AC charging)
+  - Charging is included in the ₹50/hour rate
+
+Truck Slots (Zone T):
+  - T1, T2
+  - Total: 2 truck slots
+  - Height clearance: up to 4 metres
+
+
+BOOKING PROCESS
+---------------
+To reserve a parking slot:
+1. Choose your vehicle type from the sidebar
+2. Select your preferred parking slot
+3. Set your parking duration (1 to 24 hours)
+4. Type "book parking" in the chat or click "Start Booking Now"
+5. Provide your name, surname, car number, and date & time
+6. Your reservation request is sent to the administrator for approval
+7. Once approved, you receive a unique Reservation ID (e.g. RES-8B22207F)
+8. Use your Reservation ID to check your status at any time
+
+To check reservation status:
+- Go to the "Reservation Status" tab
+- Enter your Reservation ID
+- Or type: check reservation RES-XXXXXXXX in the chat
+
+
+FACILITIES
+----------
+- 24/7 CCTV surveillance
+- Security personnel on site
+- Covered parking for motorcycles
+- EV fast charging stations at EV1, EV2, EV3
+- Wheelchair accessible slots near Zone A
+- Restroom facilities
+- Help desk at the main entrance
+
+
+VEHICLE TYPES ACCEPTED
+----------------------
+The following vehicle types are accepted:
+1. Car (sedans, hatchbacks, coupes)
+2. Motorcycle (bikes, scooters)
+3. SUV (sports utility vehicles, MPVs)
+4. Electric Vehicle (any EV or hybrid — gets charging access)
+5. Truck (commercial vehicles, vans)
+
+Each vehicle type has dedicated slots to avoid congestion.
+
+
+AVAILABILITY
+------------
+- Car slots (A1–C2): typically available, 8 slots total
+- Motorcycle slots (M1–M5): always high availability, 5 slots
+- SUV slots (S1–S4): moderate demand, book in advance for weekends
+- EV slots (EV1–EV3): limited — only 3 slots, book early
+- Truck slots (T1–T2): very limited — only 2 slots, advance booking recommended
+
+
+CANCELLATION POLICY
+-------------------
+- Cancellations made more than 2 hours before reservation time: full refund
+- Cancellations within 2 hours: 50% charge applies
+- No-shows: full charge applies
+
+
+SECURITY
+--------
+- All reservations require administrator approval before confirmation
+- A unique Reservation ID is issued for every confirmed booking
+- Token-authenticated API processes all reservation data
+- Personal data is stored securely and not shared with third parties
